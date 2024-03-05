@@ -39,6 +39,7 @@ Feel free to explore each project in detail to learn more about the problem stat
 The projects in this portfolio are implemented using various machine learning libraries and frameworks, including but not limited to:
 
 - Python
+- R 
 - NumPy
 - Pandas
 - Scikit-learn
