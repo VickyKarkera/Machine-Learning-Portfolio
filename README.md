@@ -28,10 +28,6 @@ Here are some of the key projects included in this portfolio:
 3. **Stellar Classification**
    - **Description:** The aim of this project was to classify three different stellar bodies namely Stars, Quasars, and Galaxies based on their spectral characteristics. The dataset used for this purpose was the Sloan Digital Sky Survey Data Release 17. The dataset consists of 17 features and labels distinguishing each object into their respective classes. The problem was a multiclass classification consisting of three classes.
   
-4. **Sentiment Analysis on Script Data**
-   - **Description:** Utilized Python to scrape 50,000 lines of sitcom dialogue script data to gain insights on sentiment of main characters by episode. Implemented Regex techniques to comb through 240 episode scripts and identify key characters and dialogues. Conducted Sentiment Analysis using Python with Google’s Bert Large Language Model. Aggregated data using pandas and utilized data into Streamlit to build an episode sentiment categorization website.
-
-
 Feel free to explore each project in detail to learn more about the problem statements, methodologies, and results achieved.
 
 ## Technologies Used
@@ -43,14 +39,8 @@ The projects in this portfolio are implemented using various machine learning li
 - NumPy
 - Pandas
 - Scikit-learn
-- TensorFlow
-- Keras
-- PyTorch
 - Matplotlib
 - Seaborn
-- NLTK
-- OpenCV
-- BeautifulSoup
 
 ## Usage
 
